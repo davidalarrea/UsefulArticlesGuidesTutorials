@@ -8,6 +8,8 @@
 
 ## Visualization
 1. [How to visualize targets - 12 ways to visualize targets using line graphs and bar charts ](Visualization/HowToVisualizeTargets.pdf)
+2. [Data Visualization 101: How to Design Charts and Graphs](Visualization/DataVisualization101.pdf)
+3. [Tableau - Visual Analysis Best Practices](Visualization/visual_analysis_guidebook.pdf)
 
 ## Optimization
 1. [FICO - MIP formulations and linearizations](Optimization/FICO_MIPFormulationsLinearizations.pdf)
@@ -15,3 +17,7 @@
 3. [Formulating Integer Linear Programs](Optimization/Formulating_Integer_Linear_Programs.pdf)
 4. [Strategies for "Not Linear" Optimization](Optimization/StrategiesForNotLinearOptimization.pdf)
 5. [MIT - Mixed Integer Linear Programming Formulation Techniques](Optimization/MixedIntegerLinearStrategies.pdf)
+
+## Revenue Management
+1. [Disney - Modeling a cruise line revenue management problem](RevenueManagement/Disney_ModelingACruiseLineRevenueManagementProblem.pdf)
+2. [Dynamic Cruise Ship Revenue Management](RevenueManagement/Dynamic_cruise_ship_revenue_management.pdf)
