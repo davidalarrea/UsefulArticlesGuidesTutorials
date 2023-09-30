@@ -8,3 +8,14 @@
 
 ## Visualization
 1. [How to visualize targets - 12 ways to visualize targets using line graphs and bar charts ](Visualization/HowToVisualizeTargets.pdf)
+
+## Optimization
+1. [FICO - MIP formulations and linearizations](Optimization/FICO_MIPFormulationsLinearizations.pdf)
+
+2. [AIMMS Modeling Guide - Integer Programming Tricks](Optimization/integer_programming_tricks_-_aimms_modeling_guide.pdf)
+
+3. [Formulating Integer Linear Programs](Optimization/Formulating_Integer_Linear_Programs.pdf)
+
+4. [Strategies for "Not Linear" Optimization](Optimization/StrategiesForNotLinearOptimization.pdf)
+
+5. [MIT - Mixed Integer Linear Programming Formulation Techniques](Optimization/MixedIntegerLinearStrategies.pdf)
